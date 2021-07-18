@@ -1,5 +1,5 @@
 # template-readme.md
-this is a sample template for readme.md github
+this is a _sample template_ for readme.md github
 
 # A Sampale
 
